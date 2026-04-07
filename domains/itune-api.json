@@ -1,0 +1,8 @@
+{                                                                                           
+    "owner": {                                                                                
+      "username": "your-github-username"                                                   
+    },                                  
+    "record": {
+      "CNAME": "itune-api.is-a.dev"
+    }                              
+}
